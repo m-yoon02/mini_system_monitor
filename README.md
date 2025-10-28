@@ -1,4 +1,4 @@
- **system-monitor/** — Python system metrics viewer (CPU, memory, temperatures if available). 
+ **system-monitor/**  Python system metrics viewer (CPU, memory, temperatures if available). 
   - Terminal and Matplotlib modes, optional **GIF recording** for demos.
   - Includes a tiny **unittest**.
 
